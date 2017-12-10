@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets">  
+<h:head>
+
+</h:head>
+ 
+ <h:body>
+    <ui:composition template="/templates/default/commonLayout.xhtml">
+   <h1>Test</h1>
+    </ui:composition>
+    	
+    	 
+</h:body>	
+</html>  
